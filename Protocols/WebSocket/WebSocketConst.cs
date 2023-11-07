@@ -21,7 +21,7 @@ namespace SuperSocket.WebSocket
         public const string Origin = "Origin";
         public const string ResponseHeadLine00 = "HTTP/1.1 101 WebSocket Protocol Handshake";
         public const string ResponseHeadLine10 = "HTTP/1.1 101 Switching Protocols";
-        public const string ResponseUpgradeLine = Upgrade + ": WebSocket";
+        public const string ResponseUpgradeLine = Upgrade + ": websocket";
         public const string ResponseConnectionLine = Connection + ": Upgrade";
         public const string ResponseOriginLine = "Sec-WebSocket-Origin: {0}";
         public const string ResponseLocationLine = "Sec-WebSocket-Location: {0}://{1}{2}";

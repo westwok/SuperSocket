@@ -3,3 +3,6 @@ obj
 _ReSharper.*
 *.suo
 *.user
+/.vs/SuperSocket/v17
+/dotnet/.vs
+/Protocols/WebSocket/.vs/SuperSocket.WebSocket/FileContentIndex
