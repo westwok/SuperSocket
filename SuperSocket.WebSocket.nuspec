@@ -13,7 +13,7 @@
     <tags>SuperSocket, WebSocket, SuperWebSocket</tags>
     <dependencies>
       <dependency id="log4net" version="2.0.3" />
-	  <dependency id="SuperSocket" version="$version$" />
+	  <dependency id="SuperSocket" version="$supersocketversiondependency$" />
     </dependencies>
     <references>      
       <reference file="SuperSocket.WebSocket.dll" />
